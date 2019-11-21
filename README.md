@@ -1,13 +1,9 @@
 ## Java-Implementation-Of-Crypto-Algorithm
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
+A cryptographic algorithm, or cipher, is a set of well-defined but complex mathematical instructions used to encrypt or decrypt data. The encryption and decryption processes depend on a crypto-graphic key selected by the entities participating in the encryption and decryption process
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
-PSRs you support to avoid any confusion with users and contributors.
-
-This is where your any motivation description should go. Try and limit it to a paragraph or two, and maybe some discription
-on the objective of the project.
-
+Motivation for this project is describe by the my faculty for end semester submitions. This project contains shift , Poly , Hill and Rsa crypto algos.
 
 ## Usage
 
